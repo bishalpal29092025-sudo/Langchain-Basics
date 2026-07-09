@@ -1,0 +1,7 @@
+Solana is a high-performance blockchain.
+It uses Proof of History (PoH) combined with Proof of Stake (PoS).
+Solana can process up to 65,000 transactions per second.
+The native token of Solana is SOL.
+Validators on Solana need powerful hardware to participate.
+PDAs (Program Derived Addresses) are a key feature of Solana programs.
+CPIs (Cross Program Invocations) allow programs to call other programs.
